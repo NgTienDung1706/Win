@@ -1,0 +1,9 @@
+C:\HocBai\Win\ABC\ABC\bin\Debug\ABC.exe.config
+C:\HocBai\Win\ABC\ABC\bin\Debug\ABC.exe
+C:\HocBai\Win\ABC\ABC\bin\Debug\ABC.pdb
+C:\HocBai\Win\ABC\ABC\obj\Debug\ABC.csproj.AssemblyReference.cache
+C:\HocBai\Win\ABC\ABC\obj\Debug\ABC.Properties.Resources.resources
+C:\HocBai\Win\ABC\ABC\obj\Debug\ABC.csproj.GenerateResource.cache
+C:\HocBai\Win\ABC\ABC\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+C:\HocBai\Win\ABC\ABC\obj\Debug\ABC.exe
+C:\HocBai\Win\ABC\ABC\obj\Debug\ABC.pdb
